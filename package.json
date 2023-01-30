@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "tester",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://rockfishtaco.github.io/page-demo",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
